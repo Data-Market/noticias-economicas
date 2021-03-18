@@ -1,7 +1,7 @@
 # Datasets de Noticias Económicas
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/noticias-economicas-banner.png">
+  <img src="https://datamarket.es/media/banners/noticias-economicas-banner.png">
 </a>
 
 ## Descripción
