@@ -12,7 +12,7 @@ Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: diariamente
 * __Volumen estimado__: 300 noticias cada día
-* __Histórico__: disponible desde octubre de 2020
+* __Histórico__: disponible desde octubre de 2020 en adelante
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#noticias-economicas-dataset), plataforma de referencia de datos externos en España. 
 
